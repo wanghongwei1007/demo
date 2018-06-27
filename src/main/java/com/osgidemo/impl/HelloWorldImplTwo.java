@@ -8,5 +8,7 @@ import com.osgidemo.api.IHelloWorldApi;
 public class HelloWorldImplTwo implements IHelloWorldApi {
     public void say(){
         System.out.println("this is helloworld two two !!!");
+        System.out.println("this is helloworld two two !!!");
+
     }
 }
